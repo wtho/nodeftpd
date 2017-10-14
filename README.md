@@ -1,3 +1,9 @@
+# This is a FORK!
+
+This repository is a fork of [nodeftpd/nodeftpd](https://github.com/nodeftpd/nodeftpd). I just added another hook to run code.
+
+Original README:
+
 # Simple, Extensible FTP Server in Pure JavaScript
 [![Build Status](https://travis-ci.org/sstur/nodeftpd.png?branch=master)](https://travis-ci.org/sstur/nodeftpd)
 
